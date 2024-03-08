@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gamze Akyüz 
+Hi There [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gamze Akyüz 
+
 Mobile Developer \[IOS\]
+
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [Linkedln](http://www.linkedin.com/in/gamzeakyuz)
 * ✉️  You can contact me at [gamz3akyuz@gmail.com](mailto:gamz3akyuz@gmail.com)
